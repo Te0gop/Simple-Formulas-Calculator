@@ -1,1 +1,1 @@
-# :link: https://healthy-omnifood-delivery.netlify.app/ :point_left:
+# :link: https://simple-formulas-calculator.netlify.app/ :point_left:
